@@ -23,7 +23,7 @@ And bum just like that we got this model:
 - You have to install selenium and pillow (`pip install selenium`, `pip install Pillow`)
 - Make sure that `chromedriver` added in the files is in thesame folder as python file
 - Make sure that you have chrome browser installed.
-- If the `chromedriver` is added in the files won't work download it from this webside https://chromedriver.chromium.org/downloads (version equal to your chrome version).
+- If the `chromedriver` added in the files won't work download it from this webside https://chromedriver.chromium.org/downloads (version equal to your chrome version).
 
 This code is really sketchy. Im still learning.
 Hope You like it.  
