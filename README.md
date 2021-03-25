@@ -1,5 +1,5 @@
 ### Info
-Better version that edits the .stl template file is in progres. Comming soon!
+Better version that edits the .stl template file is ready https://github.com/Silvesterrr/spotify-to-stl
 # spotify_song_to_stl
 Spotify-song-to-stl is a python command-line based program designed to get .stl file of 'spotify code' based on spotify url.
 
